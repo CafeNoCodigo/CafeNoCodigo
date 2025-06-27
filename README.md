@@ -6,8 +6,6 @@
 
 ---
 
-
-
 <!-- GitHub Stats -->
 <div align="center">
   <a href="https://github.com/CafeNoCodigo">
@@ -18,23 +16,15 @@
 
 ---
 
-Welcome to my personal portfolio!  
-This project showcases my skills, tools, and technologies used throughout my learning and professional journey.
-
-Built with tools like **Java**, **JavaFX**, **React**, **CSS**, **HTML**, **ThreeJS**, and **MySQL**, this portfolio includes GitHub stats, tech stack icons, and contact links for collaboration.
-
----
-
 ## 👨‍💻 Sobre mim
-I'm a passionate developer who loves solving real-world problems through practical solutions. I have experience with desktop systems (POS, management tools) and modern web applications.
+Sou um desenvolvedor apaixonado que adora resolver problemas do mundo real por meio de soluções práticas. Tenho experiência com sistemas desktop (PDV, ferramentas de gestão) e aplicações web modernas.
 
 ---
 
 ## 🛠️  Projectos
 
-- **Sistema PDV JavaFX + MySQL** – Aplicação desktop para vendas com controle de estoque e caixa.
-- **Portfólio Pessoal em React** – Site responsivo destacando projetos e habilidades.
-- **Importador de Produtos Excel** – Função para sistemas de estoque com leitura automática de planilhas.
+- **Sistema PDV JAVA, JavaFX + MySQL e MAVEN** – Aplicação desktop para vendas com controle de estoque e caixa.
+- **Portfólio Pessoal em React, JAVASCRIPT, HTML, CSS, THREEJS, GSAP** – Site responsivo destacando projetos e habilidades.
 
 > _Mais projetos em breve. Confira os repositórios públicos!_
 
